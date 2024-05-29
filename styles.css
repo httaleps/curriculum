@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    background-image: url(neve.gif);
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+#profile-image {
+    max-width: 150px;
+    border-radius: 3%;
+    display: block;
+    margin: 0 auto;
+}
+
+#main-content p{
+    padding: 20px;
+}
